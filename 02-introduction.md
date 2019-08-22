@@ -2,16 +2,27 @@
 title: Introduction
 ---
 
-The web of 2019 is
+The web of 2019 is in flux. On one had
 
 # Setting the Stage
 
-## Trends
+## Software Trends
 
-* Containers
-  * Specialist DevOps
-  * Kubernetes difficult billing
-* FaaS
+* Increasing abstraction
+  * Containers
+    * Specialist DevOps
+    * Kubernetes difficult billing
+  * FaaS / Serverless
+    * Still early in its curve
+  * Wasm Isolates
+* Difficult to compete with the rolling weight of the Big Four
+
+## Social Trends
+
+* Data security
+* Lock-in fatigue
+* Scandals: Snowden, Cambridge Analytica
+* Apple has begun selling its services as "more secure"
 
 # Paradeigm Shift
 
@@ -47,3 +58,5 @@ The web of 2019 is
 * Content addressing will effectively make data location a non-issue
 
 # The End of History
+
+The past 60 years have been a progression from bespoke hardware, through mainframes, timeshare, hardware owneership, cloud computing, containers, FaaS, and finally hostless systems
