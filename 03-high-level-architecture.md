@@ -23,11 +23,11 @@ The Asimov architecture is made up of into 6 modular components, which group loo
 |     |        |                        +--------------------+                     |            |     |            |    |
 |     |        |                        | Database (OrbitDB) |                     |            |     |            |    |
 |     |        |                        +--------------------+                     |            |     |            |    |
-|     |        +-------------------------------------------------------------------+            +-----+            +----+
-| DNS |                                                                            |            |     |            |
+|Route|        +-------------------------------------------------------------------+            +-----+            +----+
+|(DNS)|                                                                            |            |     |            |
 |     |        +-------------------------------------------------------------------+            +-----+            +----+
 |     |        |                         +----------------------------------+      |            |     |            |    |
-|     |        | Digital Scarcity        |Identity (Public key Cryptography)|      |            |     |            |    |
+|     |        | Digital Scarcity        |Identity (Public Key Cryptography)|      |            |     |            |    |
 |     |        | ================        +----------------------------------+      |            |     |            |    |
 |     | <----> |                                                                   | Encryption |     |    FaaS    |    |
 |     |        |                         +----------------------------------+      |            |     |            |    |
@@ -45,3 +45,10 @@ The Asimov architecture is made up of into 6 modular components, which group loo
                |                        +------------------------------------+                                          |
                +--------------------------------------------------------------------------------------------------------+
 ```
+
+Cutting across these are two second-order modules that rely on the 3 core areas:
+
+1. Encryption
+2. Functions-as-a-Service
+
+The vast majority of end users will not have cryptographically-backed routing available locally for some time. To bridge this gap, Asimov leverages public DNS infrastrcuctue as a backwards-compatibility bridge.

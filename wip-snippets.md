@@ -9,3 +9,5 @@ While our team absolutely appreciates code that is correct-by-construction, tota
 > ~ Edsger Dijkstra
 
 SCaaS
+
+Note to self: DNS TXT records should come with a signature of the pointer
