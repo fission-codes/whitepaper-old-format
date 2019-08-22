@@ -73,6 +73,8 @@ Software continues its march of abstraction
 * Modularity
 * UX and DX (broadly HCI) / conveniecne
 
+## Open Infrastructure
+
 ## Progressive Decentralization
 
 *

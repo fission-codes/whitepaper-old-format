@@ -57,6 +57,7 @@ title: Table of Contents
     * Trusted & Altruistic
     * Trustless
       * Infinite-Loop Economics (unbounded gas)
+      * Autonomous code / bots
   * Use
     * Front end
     * Local compute
