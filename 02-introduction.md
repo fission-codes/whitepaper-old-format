@@ -4,6 +4,15 @@ title: Introduction
 
 The web of 2019 is
 
+# Setting the Stage
+
+## Trends
+
+* Containers
+  * Specialist DevOps
+  * Kubernetes difficult billing
+* FaaS
+
 # Paradeigm Shift
 
 > If you don't like what you got Why don't you change it
@@ -34,9 +43,7 @@ The web of 2019 is
   * Microsoft
   * BC Government
 * Wasm is going to be available everywhere
+
 * Content addressing will effectively make data location a non-issue
 
----
-> Next section
-
-# Progressive Decentralization
+# The End of History
