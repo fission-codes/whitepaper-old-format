@@ -9,6 +9,9 @@ title: Table of Contents
   * Progressive Decentralization
   * Open Infrastructure
 * High Level Architecture
+
+-- Part I: Components --
+
 * Unified Storage
   * Perspective
     * Features: nondestructive, censorship resistance as data integrity, CDN
@@ -60,12 +63,13 @@ title: Table of Contents
     * Seamless compute
     * FaaS
     * MPC
+
+-- Part II: Cross Cutting --
+
 * Applications
   * Perscective
   * UNIX-inspired File DAG
-
--- Cross Cutting --
-
+  * Code
 * Identity
   * Perspecive
   * Encryption
