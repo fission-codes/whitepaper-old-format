@@ -65,11 +65,19 @@ Software continues its march of abstraction
 
 * Content addressing will effectively make data location a non-issue
 
-# Core Values
+# Core Principles
 
 * Pragmatism
 * Self-sovereignty
-* UX and DX (broadly HCI)
+* Universality
+* Modularity
+* UX and DX (broadly HCI) / conveniecne
+
+## Open Infrastructure
+
+## Progressive Decentralization
+
+*
 
 # The End of History
 
