@@ -71,6 +71,8 @@ Software continues its march of abstraction
 * Self-sovereignty
 * UX and DX (broadly HCI)
 
+## Progressive Decentralization
+
 # The End of History
 
 The past 60 years have been a progression from bespoke hardware, through mainframes, timeshare, hardware owneership, cloud computing, containers, FaaS, and finally hostless systems
