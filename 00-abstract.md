@@ -12,3 +12,5 @@ The past decade has seen a number of advances in distributed systems, decentrali
 To meet the technical and social needs of 2020, 2025, and beyond, we introduce Asimov: a web-scale, secure-by-default, where users own and control their identity and data, code is executable on any machine, and removes deployment as a separate development stage.
 
 A major barrier to user adoption is unfamilairity with advanced or novel paradeigms. As such, Asimov follows a philosophy of _progressive decentralization_.
+
+* We propose a framework that bridges data storage, digital scarcity, and portable compute.
