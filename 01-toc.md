@@ -90,6 +90,9 @@ title: Table of Contents
     * Global partial order
     * Subgraph Merging
     * Subgraph Reorder
+* Deployment
+  * DNS
+  * Live from laptop
 
 -- Conclusion --
 
