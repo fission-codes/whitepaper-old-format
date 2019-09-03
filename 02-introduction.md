@@ -2,6 +2,8 @@
 title: Introduction
 ---
 
+Underlying thesis
+
 # Setting the Stage
 
 The internet is fundamentally a decentralized network. Since this network is being used to move huge amounts of valuable data, there is an incentive to become a hub for this data.
